@@ -1,7 +1,7 @@
 # Hackintosh-High-Sierra-10.13.6-EFI
 High Sierra 10.13.6
 
-This is EFI only - no OS and no installer/repairer included (this is FAT32).
+EFI only - no OS and no installer/repairer included (this is FAT32).
 
 
 CPU: Intel Core i5-8400 (Coffee Lake)
