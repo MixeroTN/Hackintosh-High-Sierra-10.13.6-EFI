@@ -1,6 +1,6 @@
 # Hackintosh High Sierra 10.13.6 EFI
 
-This is an EFI-only booter for High Sierra 10.13.6, which does not include an OS or installer/repairer (it is FAT32). The system specifications are as follows:
+This is an EFI-only booter for High Sierra 10.13.6 with OpenCanopy, which does not include an OS or installer/repairer (it is FAT32). The system specifications are as follows:
 
     CPU: Intel Core i5-8400 (Coffee Lake)
     GPU: MSI GeForce GTX 1050 Ti OC 4GT (NVidia)
